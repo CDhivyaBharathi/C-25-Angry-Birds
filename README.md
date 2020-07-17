@@ -1,2 +1,2 @@
-# C-25-Angry-Birds
-This project is based on inheritence
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
